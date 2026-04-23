@@ -1,0 +1,31 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/resources/
+/.hugo_build.lock
+
+# Hugo deploy state
+/.deploy/
+
+# Hugo generated files
+hugo_stats.json
+
+# Dart Sass / Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
